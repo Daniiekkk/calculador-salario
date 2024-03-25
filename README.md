@@ -1,10 +1,12 @@
-# calculador-salario
-Codigo que utiliza um sistema com PHP que com base nas metas semanais de vendas que um funcionário vendeu, calcula o salário dele com uma taxa de bonificação excedente a Meta.
+                                                # Calcular Salário
+                                                
+Atividade Proposta
 =======
+Você deverá entregar um sistema que solicite o nome do vendedor, os valores de meta semanal e mensal, e, ao final, o sistema deverá calcular o salário final e exibir ao usuário, para que o pagamento do salário seja efetuado. 
+
 
 # Índice
 * [Descrição](#descri%C3%A7%C3%A3o)
-* [Funcionalidades](#funcionalidade)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Fontes consultadas](#fontes-consultadas)
 * [Autores](#autores)
