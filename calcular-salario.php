@@ -23,6 +23,7 @@ foreach ($semanas as $venda_semanal) {
  
 // Verificando se todas as metas semanais foram atingidas
 $metas_semanais_atingidas = count(array_filter($semanas, function ($venda_semanal) use ($meta_semanal) {
+    return $venda_semanal >= $meta_semanal;
 })) === 4; // Verifica se as 4 semanas atingiram a meta
  
 // Verificando se a meta mensal foi atingida
